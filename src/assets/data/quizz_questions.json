@@ -1,0 +1,60 @@
+{
+  "title":"Vamos descobrir se vc tem alma de pobre ou rico kkk",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que você faria se descrobisse que ganhou na loteria ou na trimania ?",
+      "options":[
+        {"id": 1, "name":"Compraria tudo que tem vontade", "alias":"B"},
+        {"id": 2, "name":"Dividir com alguém que amo", "alias":"A"},
+        {"id": 3, "name":"Investir em Algo", "alias":"A"},
+        {"id": 4, "name":"doaria pra Alguma Institução", "alias":"A"},
+        {"id": 5, "name":"Gastar em balada (dexLounge)", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Escolha uma comida!",
+      "options":[
+        {"id": 1, "name":"Japonesa", "alias":"A"},
+        {"id": 2, "name":"Brasileira", "alias":"B"},
+        {"id": 3, "name":"Árabe", "alias":"A"},
+        {"id": 4, "name":"Italiana", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual o seu Objetivo de vida ?",
+      "options":[
+        {"id": 1, "name":"Viajar pelo mundo?", "alias":"A"},
+        {"id": 2, "name":"Ser Famoso", "alias":"B"},
+        {"id": 3, "name":"Ter um família", "alias":"B"},
+        {"id": 4, "name":"Trabalhar no emprego dos sonhos", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "que vc compraria primeiro se descobrisse que ficou milionário??",
+      "options":[
+        {"id": 1, "name":"Carro(chevette)", "alias":"A"},
+        {"id": 2, "name":"Casa", "alias":"A"},
+        {"id": 3, "name":"Jóias", "alias":"B"},
+        {"id": 4, "name":"Passagem (palhoça)", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Quem é vc numa festa? ",
+      "options":[
+        {"id": 1, "name":"Aquele q não foi pra ficar no Netflix", "alias":"A"},
+        {"id": 2, "name":"Aquele que fica próximo das comidas e bebidas", "alias":"B"},
+        {"id": 3, "name":"o dançarino da balada", "alias":"B"},
+        {"id": 4, "name":"Ou que está com os amigos na balada", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Quem diria!, vc tem pouca de alma de rico!",
+    "B": "Não é novidade, vc tem alma de pobre mesmo!"
+  }
+}
