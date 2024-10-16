@@ -1,5 +1,5 @@
 {
-  "title":"Vamos descobrir se vc tem alma de pobre ou rico kkk",
+  "title":"Vamos descobrir se vc tem alma de pobre ou rico",
   "questions":[
     {
       "id":1,
@@ -9,7 +9,7 @@
         {"id": 2, "name":"Dividir com alguém que amo", "alias":"A"},
         {"id": 3, "name":"Investir em Algo", "alias":"A"},
         {"id": 4, "name":"doaria pra Alguma Institução", "alias":"A"},
-        {"id": 5, "name":"Gastar em balada (dexLounge)", "alias":"B"}
+        {"id": 5, "name":"Gastar em balada ", "alias":"B"}
       ]
     },
     {
