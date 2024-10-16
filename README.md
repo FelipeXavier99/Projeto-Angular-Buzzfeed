@@ -1,7 +1,7 @@
 # Projeto-Angular-Buzzfeed
 
 
-- Segue o meu projeto Angular com o assunto quiz se vai ser probre ou rico!
+- Segue o meu projeto Angular que seria um QUIZ do tema se vai ser probre ou rico!
 
 - código principal no MASTER do github: SRC/DATA/QUIZ_QUESTION.JSON
 
