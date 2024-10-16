@@ -12,3 +12,7 @@
 - caso der erro tenta executar : npm audit fix --force
 
 ![rico-pobre](https://github.com/user-attachments/assets/8b3195a9-8f80-42b3-a2f5-266d341cee12)
+
+
+https://github.com/user-attachments/assets/ed244c2b-ba69-4477-afce-d395730b1118
+
